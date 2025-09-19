@@ -7,7 +7,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>gitBrowse our latest products woooooh!!<\/p>",
+            "text": "<p>localBrowse our latest products woooooh!!<\/p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
